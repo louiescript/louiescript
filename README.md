@@ -1,4 +1,28 @@
-## Hi there 👋
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=Hi+👋🏿+I'm+Ernest!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hi+👋🏿+I'm+Ernest!">
+    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+  </picture>
+</h1>
+
+
+
+
+
+
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **louiescript/louiescript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

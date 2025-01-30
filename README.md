@@ -6,6 +6,7 @@
   </picture>
 </h1>
 
+![GitHub Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzb3lrc2xibmp4bWxvbnd3bWpuNGFxbmFtYzdiMzc2aGM0ZXQ5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
 
 
